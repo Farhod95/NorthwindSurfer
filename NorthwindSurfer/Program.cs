@@ -20,7 +20,7 @@ namespace NorthwindSurfer
         }
         public async Task Run()
         {
-            Console.WriteLine(" Quyidagi menyudan birini tanlang ");
+            Console.WriteLine(" Quyidagi menyudan birini tanlang !");
             Console.WriteLine("\n **** Jadvallarni to'liq ko'rish ****\n");
             Console.WriteLine(" 1. Products jadvalini to'liq ko'rish ");
             Console.WriteLine(" 2. Orders jadvalini to'liq ko'rish ");
